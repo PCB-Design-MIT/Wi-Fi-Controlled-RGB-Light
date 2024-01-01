@@ -6,8 +6,10 @@
 
   (paper "USLetter")
   (title_block
+    (title "RGB LED Driver Demo Board")
     (date "2024-01-01")
     (rev "A01")
+    (company "The Art and Science of PCB Design")
   )
 
   (layers
