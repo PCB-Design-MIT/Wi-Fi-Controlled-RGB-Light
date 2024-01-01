@@ -2,7 +2,12 @@
 
   (uuid d4a7e6a5-3efc-44b5-95fd-e496d14598e9)
 
-  (paper "A4")
+  (paper "USLetter")
+
+  (title_block
+    (date "2024-01-01")
+    (rev "A01")
+  )
 
   (lib_symbols
     (symbol "Amplifier_Operational:LM358" (pin_names (offset 0.127)) (in_bom yes) (on_board yes)
@@ -528,6 +533,9 @@
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm2904-n.pdf" (at 174.625 73.66 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Digikey PN" "" (at 174.625 73.66 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 392e9f8f-42ab-4734-8aac-e862cc7e4582))
     (pin "2" (uuid 16a85c38-5096-4f65-8b70-7a0cd9f14940))
     (pin "3" (uuid 1ce2073e-1569-473f-88c5-95052506afd8))
@@ -567,6 +575,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm2904-n.pdf" (at 111.76 73.66 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Digikey PN" "" (at 111.76 73.66 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid f786f86e-f169-464b-889c-57508b0c997e))
@@ -644,6 +655,9 @@
     (property "Datasheet" "http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf" (at 127 73.66 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
+    (property "Digikey PN" "" (at 127 73.66 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 60b0abca-0a7f-455b-8f24-84e555ddd99f))
     (pin "2" (uuid 45f94ade-4dfb-49c5-b880-df69fff7a436))
     (pin "3" (uuid 6311fcb4-26bb-4109-9e18-26aadc03523c))
@@ -714,6 +728,9 @@
     (property "Datasheet" "~" (at 99.06 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Digikey PN" "" (at 99.06 64.77 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 1eac7865-1a31-4ffb-9226-5a38cd6015bc))
     (pin "2" (uuid 328526d1-2b1e-487c-b0d0-772fe25695c6))
     (instances
@@ -747,6 +764,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 129.54 87.63 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Digikey PN" "" (at 129.54 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 0e267083-be6d-4ffd-8b51-0416dc2cdccc))
@@ -852,6 +872,9 @@
     (property "Datasheet" "~" (at 99.06 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Digikey PN" "" (at 99.06 77.47 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 34bb647b-15b1-4962-a246-ed60f6ba38af))
     (pin "2" (uuid eb4abd9d-ce9a-471f-96a6-6687e2c98a20))
     (instances
@@ -921,6 +944,9 @@
     (property "Datasheet" "~" (at 182.245 70.485 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Digikey PN" "" (at 182.245 70.485 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid da5a1604-4c6c-41a3-9a3b-d9d9b3e186a4))
     (pin "2" (uuid 49058056-806a-4325-ac18-8242d3a21502))
     (instances
@@ -988,6 +1014,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm2904-n.pdf" (at 155.575 73.66 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Digikey PN" "" (at 155.575 73.66 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 392e9f8f-42ab-4734-8aac-e862cc7e4583))

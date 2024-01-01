@@ -2,7 +2,12 @@
 
   (uuid 2c1d0a38-a442-4530-911c-0a9800abb08b)
 
-  (paper "A4")
+  (paper "USLetter")
+
+  (title_block
+    (date "2024-01-01")
+    (rev "A01")
+  )
 
   (lib_symbols
     (symbol "Device:LED" (pin_numbers hide) (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
@@ -211,6 +216,9 @@
     (property "Datasheet" "https://www.qt-brightek.com/datasheet/QBLP670-IW-XX.pdf" (at 90.805 74.295 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Digikey PN" "" (at 90.805 74.295 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 7cec1fe2-db2e-402f-bc27-41e87787cdab))
     (pin "2" (uuid 8f9af4e0-4535-48c5-87ac-5f8bb5b2ff73))
     (instances
@@ -244,6 +252,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.qt-brightek.com/datasheet/QBLP670-IW-XX.pdf" (at 98.425 74.295 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Digikey PN" "" (at 98.425 74.295 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 116fb884-004b-4259-a707-6e4b37da401f))
@@ -281,6 +292,9 @@
     (property "Datasheet" "https://www.qt-brightek.com/datasheet/QBLP670-IW-XX.pdf" (at 67.945 74.295 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Digikey PN" "" (at 67.945 74.295 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 61d1e8e2-a437-40da-8ac2-bde9e24a5055))
     (pin "2" (uuid 14533ea4-0956-4814-94f4-46012867891a))
     (instances
@@ -314,6 +328,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.qt-brightek.com/datasheet/QBLP670-IW-XX.pdf" (at 75.565 74.295 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Digikey PN" "" (at 75.565 74.295 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 485f41e8-9ae8-468c-9be7-770ed16e2733))
@@ -385,6 +402,9 @@
     (property "Datasheet" "https://www.qt-brightek.com/datasheet/QBLP670-IW-XX.pdf" (at 52.705 74.295 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Digikey PN" "" (at 52.705 74.295 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 719745b7-add1-4f3c-b500-43844d7529c5))
     (pin "2" (uuid d69149b5-1efe-4632-b402-0435a9b85f2f))
     (instances
@@ -418,6 +438,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 37.465 74.295 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Digikey PN" "" (at 37.465 74.295 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid a1df98f8-8ab8-4d09-a6b9-697d6df4ef07))
@@ -455,6 +478,9 @@
     (property "Datasheet" "https://www.qt-brightek.com/datasheet/QBLP670-IW-XX.pdf" (at 83.185 74.295 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Digikey PN" "" (at 83.185 74.295 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid dd25add8-feed-4e65-b037-82864128fb96))
     (pin "2" (uuid 5c872785-6d8b-454f-acba-cd1c3ae3d2c3))
     (instances
@@ -488,6 +514,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.qt-brightek.com/datasheet/QBLP670-IW-XX.pdf" (at 60.325 74.295 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Digikey PN" "" (at 60.325 74.295 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 83bfc3d1-435e-4f0d-9632-05d4b164d753))
@@ -525,6 +554,9 @@
     (property "Datasheet" "https://www.qt-brightek.com/datasheet/QBLP670-IW-XX.pdf" (at 106.045 74.295 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Digikey PN" "" (at 106.045 74.295 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 6386db39-b415-4dac-8949-a908bb11639b))
     (pin "2" (uuid 33d79a17-30c1-436a-9764-9ba53d921c70))
     (instances
@@ -560,6 +592,9 @@
     (property "Datasheet" "https://www.qt-brightek.com/datasheet/QBLP670-IW-XX.pdf" (at 45.085 74.295 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Digikey PN" "" (at 45.085 74.295 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 1bac082d-c4c0-4652-a9d8-6feddeb2aa35))
     (pin "2" (uuid 4ede2fb9-6c20-4527-b854-f3fa9a7d353c))
     (instances
@@ -593,6 +628,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.qt-brightek.com/datasheet/QBLP670-IW-XX.pdf" (at 113.665 74.295 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Digikey PN" "" (at 113.665 74.295 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 632efd6c-312e-4abc-a981-59642d6eabd5))
