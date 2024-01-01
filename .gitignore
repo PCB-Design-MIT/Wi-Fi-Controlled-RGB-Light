@@ -27,3 +27,6 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+production/RGB_LED_Driver_A01_2024-01-01_18-08-40/RGB_LED_Driver_A01.zip
+production/RGB_LED_Driver_A01_2024-01-01_18-03-55/RGB_LED_Driver_A01.zip
+production/RGB_LED_Driver_A01_2024-01-01_18-08-40/netlist.ipc
