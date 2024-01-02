@@ -495,7 +495,7 @@
     (property "Reference" "C9" (at 97.79 44.45 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "100nf" (at 95.25 49.53 0)
+    (property "Value" "100nF" (at 95.25 49.53 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (at 102.5652 50.8 0)
