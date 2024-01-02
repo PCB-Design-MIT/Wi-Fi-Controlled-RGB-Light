@@ -445,6 +445,9 @@
     (property "Digikey PN" "" (at 37.465 74.295 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "MPN" "0805W8F0000" (at 37.465 74.295 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid a1df98f8-8ab8-4d09-a6b9-697d6df4ef07))
     (pin "2" (uuid 10911aff-0e89-4984-b4b6-9c2a294cc776))
     (instances
