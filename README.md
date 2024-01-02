@@ -6,4 +6,4 @@ Designed by: [Deepta Gupta](https://github.com/deeptag0307), [Winnie Szeto](http
 
 [Interactive BOM](https://htmlpreview.github.io/?https://github.com/PCB-Design-MIT/Wi-Fi-Controlled-RGB-Light/blob/main/bom/ibom.html)
 
-[PDF Schematic (Not updated yet)]()
+[Interactive Schematic and Layout Viewer](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2FPCB-Design-MIT%2FWi-Fi-Controlled-RGB-Light)
