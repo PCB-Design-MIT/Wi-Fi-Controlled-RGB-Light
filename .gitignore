@@ -31,3 +31,5 @@ production/RGB_LED_Driver_A01_2024-01-01_18-08-40/RGB_LED_Driver_A01.zip
 production/RGB_LED_Driver_A01_2024-01-01_18-03-55/RGB_LED_Driver_A01.zip
 production/RGB_LED_Driver_A01_2024-01-01_18-08-40/netlist.ipc
 *.lck
+production/RGB_LED_Driver_Demo_Board_A01_2024-01-02_01-24-58/netlist.ipc
+*.zip
