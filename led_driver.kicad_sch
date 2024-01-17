@@ -920,7 +920,7 @@
     (property "Digikey PN" "RMCF0805FT51K0CT-ND" (at 88.9 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MPN" "RMCF0805FT51K0" (at 88.9 77.47 0)
+    (property "MPN" "RMCF0805FT10K0" (at 88.9 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 34bb647b-15b1-4962-a246-ed60f6ba38af))
